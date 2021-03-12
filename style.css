@@ -1,0 +1,19 @@
+#news {
+    text-transform:uppercase;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:6vw;
+    display: inline-block;
+    white-space: nowrap;
+    animation: floatText 200s infinite linear;
+    padding-left: 100%; /* Initial offset */
+    color: black;
+    position:fixed;
+    bottom:30px;
+  }
+
+  
+  @keyframes floatText {
+    to {
+      transform: translateX(-100%);
+    }
+  }

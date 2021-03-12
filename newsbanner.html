@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="utf-8">
+        <title>News Banner</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div id="news">
+            Breaking News! I almost poured Orange Juice in my cereal today, yikes!
+            | Apple Silicon: the name "M1" has nothing to do with the road that connects London to Leeds
+            | Who did this? If you want to blame somebody these silly pieces of text, blame Lucien Bill
+        </div>
+    </body>
+    <script>
+        news = document.getElementById("news").innerHTML;
+        speed = 5;
+        duration = news.length / speed + "s";
+        document.getElementById("news").style.animationDuration = duration;
+    </script>
+</html>
