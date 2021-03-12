@@ -3,6 +3,8 @@ Do you watch the news?
 Picture the text on the lower portion of the screen : some "flash news" scroll all the time.
 I wanted to have that on my live stream on Twitch, so I codded this simple thing.
 
+Largely inspired from [this code](https://dev.to/techthor/pure-css-continuous-horizontal-text-scroll-42a3).
+
 ## How to use it in OBS?
 Just include it as a browser source.
 
