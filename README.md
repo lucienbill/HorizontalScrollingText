@@ -9,6 +9,7 @@ Largely inspired from [this code](https://dev.to/techthor/pure-css-continuous-ho
 Just include it as a browser source.
 
 Change the speed, the text, the style however you like.
+You can also set the value `doRandomize` to `true` (in `newsbanner.html`) if you want your newsbits to be reordered at random.
 
 Here is a heavily compressed gif to show how I do it:
 
@@ -28,10 +29,11 @@ Largement inspiré de [ce code](https://dev.to/techthor/pure-css-continuous-hori
 Ajoutez juste une source navigateur.
 
 Changez la vitesse, le texte et le style à votre guise.
+Vous pouvez aussi mettre la valeur `doRandomize` à `true` (dans `newsbanner.html`) si vous voulez réordonner de manière aléatoire vos bouts de news.
 
 Voici un gif très compressé qui montre comment faire :
 
 ![](https://raw.githubusercontent.com/lucienbill/HorizontalScrollingText/main/Documentation/newsbanner-compressed.gif)
 
 ## J'ai une question !
-Allez, posez-la moi sur [twitter](https://twitter.com/BillyTheTroll) ou crééz une [issue](https://github.com/lucienbill/HorizontalScrollingText/issues) ;)
+Allez, posez-la moi sur [twitter](https://twitter.com/BillyTheTroll) ou créez une [issue](https://github.com/lucienbill/HorizontalScrollingText/issues) ;)
