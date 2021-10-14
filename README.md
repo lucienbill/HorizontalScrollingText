@@ -6,7 +6,11 @@ I wanted to have that on my live stream on Twitch, so I codded this simple thing
 Largely inspired from [this code](https://dev.to/techthor/pure-css-continuous-horizontal-text-scroll-42a3).
 
 ## How to use it in OBS?
-Just clone this repo, and include "newsbanner.html" as a browser source.
+Just clone this repo, and include "newsbanner.html" as a browser source : 
+1. Clone this projet (or just download the files) on your computer (example: `C:/somefolder/stream`)
+2. In OBS, create a new "Browser" source, and enter the path to the HTML file (example: `C:/somefolder/stream/newsbanner.html`)
+3. Place your source in the appropriate location.
+4. Customize everything (the colors, the messages, ...)
 
 Change the speed, the text, the style however you like.
 You can also set the value `doRandomize` to `true` (in `newsbanner.html`) if you want your newsbits to be reordered at random.
@@ -26,7 +30,12 @@ Je voulais avoir la même chose sur mon stream Twitch, donc j'ai codé ce truc s
 Largement inspiré de [ce code](https://dev.to/techthor/pure-css-continuous-horizontal-text-scroll-42a3).
 
 ## Comment l'utiliser dans OBS ?
-Clonez ce repo, et ajoutez le fichier "newsbanner.html" comme source navigateur dans OBS.
+Clonez ce repo, et ajoutez le fichier "newsbanner.html" comme source navigateur dans OBS : 
+
+1. Clonez ce projet (ou téléchargez les fichiers) sur votre ordinateur (exemple: `C:/somefolder/stream`)
+2. dans OBS, créez une source de type "navigateur" et entrez le chemin du fichier HTML (exemple: `C:/somefolder/stream/newsbanner.html`)
+3. Placez la source à l'endroit qui convient le mieux.
+4. Customisez tout (les couleurs, les messages, ...)
 
 Changez la vitesse, le texte et le style à votre guise.
 Vous pouvez aussi mettre la valeur `doRandomize` à `true` (dans `newsbanner.html`) si vous voulez réordonner de manière aléatoire vos bouts de news.
