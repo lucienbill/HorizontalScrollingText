@@ -7,7 +7,7 @@ Largely inspired from [this code](https://dev.to/techthor/pure-css-continuous-ho
 
 ## How to use it in OBS?
 Just clone this repo, and include "newsbanner.html" as a browser source : 
-1. Clone this projet (or just download the files) on your computer (example: `C:/somefolder/stream`)
+1. Clone this projet or [download the latest release](https://github.com/lucienbill/HorizontalScrollingText/releases) on your computer (example: `C:/somefolder/stream`)
 2. In OBS, create a new "Browser" source, and enter the path to the HTML file (example: `C:/somefolder/stream/newsbanner.html`)
 3. Place your source in the appropriate location.
 4. Customize everything (the colors, the messages, ...)
@@ -32,7 +32,7 @@ Largement inspiré de [ce code](https://dev.to/techthor/pure-css-continuous-hori
 ## Comment l'utiliser dans OBS ?
 Clonez ce repo, et ajoutez le fichier "newsbanner.html" comme source navigateur dans OBS : 
 
-1. Clonez ce projet (ou téléchargez les fichiers) sur votre ordinateur (exemple: `C:/somefolder/stream`)
+1. Clonez ce projet ou [téléchargez la release la plus récente](https://github.com/lucienbill/HorizontalScrollingText/releases)  sur votre ordinateur (exemple: `C:/somefolder/stream`)
 2. dans OBS, créez une source de type "navigateur" et entrez le chemin du fichier HTML (exemple: `C:/somefolder/stream/newsbanner.html`)
 3. Placez la source à l'endroit qui convient le mieux.
 4. Customisez tout (les couleurs, les messages, ...)
